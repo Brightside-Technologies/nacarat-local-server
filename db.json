@@ -1,0 +1,716 @@
+{
+  "daily-deals": {
+      "8b9846d7-9df4-440c-8bbc-88b8a9fc7217": {
+        "productName": "culpa nostrud ullamco ex",
+        "seller": {
+          "id": "cd1c6c72-64ae-4f64-9235-03c4f2eb39f1",
+          "name": "Applideck",
+          "address": {
+            "street": "Hubbard Place",
+            "city": "Ferney",
+            "state": "CA",
+            "country": "US",
+            "zip": 5
+          }
+        },
+        "images": [
+          "https://img0.etsystatic.com/201/0/6333476/il_570xN.1211295880_dhiv.jpg",
+          "http://placehold.it/32x32"
+        ],
+        "quantity": 1,
+        "price": 1347.39,
+        "dailyDealPrice": 1000.00,
+        "description": "Laborum tempor nulla reprehenderit dolor sunt dolor velit est. Sint in pariatur enim sint magna fugiat id veniam. Laborum labore in aute sit id pariatur eu qui est ut labore elit. Laboris eu ex sunt mollit officia.\r\n",
+        "tags": [
+          "do",
+          "fugiat",
+          "tempor",
+          "laboris",
+          "voluptate",
+          "veniam",
+          "aute"
+        ]
+      },
+      "bd9f7a6e-2372-4699-8c71-274de3da1269": {
+        "productName": "laborum",
+        "seller": {
+          "id": "c9a7a807-c3b9-4d10-825b-1cf27887f30a",
+          "name": "Futuris",
+          "address": {
+            "street": "Rutland Road",
+            "city": "Sidman",
+            "state": "CA",
+            "country": "US",
+            "zip": 5
+          }
+        },
+        "images": [
+          "https://img1.etsystatic.com/043/2/7751778/il_570xN.538241701_167v.jpg",
+          "http://placehold.it/32x32"
+        ],
+        "quantity": 3,
+        "price": 2073.43,
+        "dailyDealPrice": 1000.00,
+        "description": "Deserunt consectetur in tempor consectetur reprehenderit proident irure eu in officia dolore do dolor nisi. Eu in quis tempor cupidatat velit tempor adipisicing. Eiusmod eiusmod elit non irure nostrud. Laborum sint cupidatat cillum amet. Anim magna dolor laboris excepteur ipsum in minim. Qui fugiat aliqua quis laborum nisi anim ut veniam ipsum anim irure. Adipisicing aliquip aute commodo pariatur ex elit.\r\n",
+        "tags": [
+          "duis",
+          "ea",
+          "sunt",
+          "eu",
+          "proident",
+          "est",
+          "fugiat"
+        ]
+      },
+      "171ec255-98fa-476c-befe-48b6d6af4486": {
+        "productName": "proident veniam et excepteur",
+        "seller": {
+          "id": "00301ccf-60e8-41b6-b20b-c5dec97d87fe",
+          "name": "Lotron",
+          "address": {
+            "street": "Kings Hwy",
+            "city": "Kersey",
+            "state": "CA",
+            "country": "US",
+            "zip": 5
+          }
+        },
+        "images": [
+          "https://img0.etsystatic.com/138/0/11887158/il_570xN.855579034_i88s.jpg",
+          "http://placehold.it/32x32"
+        ],
+        "quantity": 4,
+        "price": 3154.65,
+        "dailyDealPrice": 1000.00,
+        "description": "Deserunt sunt ea deserunt sit deserunt mollit quis eu tempor nostrud commodo labore aute incididunt. Exercitation esse reprehenderit elit laborum. Labore in est amet Lorem culpa laborum culpa sit occaecat. Mollit incididunt aliquip tempor et minim voluptate consectetur laborum. Ad voluptate eu sunt duis sunt aliqua fugiat eiusmod culpa officia velit esse id. Voluptate ipsum nulla ullamco officia laboris amet magna aliqua aute laboris ut.\r\n",
+        "tags": [
+          "veniam",
+          "incididunt",
+          "sit",
+          "ut",
+          "magna",
+          "id",
+          "laborum"
+        ]
+      },
+      "e5cada70-8953-44e3-b087-8284decadef6": {
+        "productName": "et",
+        "seller": {
+          "id": "fdabe4e9-1a0e-4aa8-81eb-d82dcd820541",
+          "name": "Greeker",
+          "address": {
+            "street": "Cypress Court",
+            "city": "Lutsen",
+            "state": "CA",
+            "country": "US",
+            "zip": 5
+          }
+        },
+        "images": [
+          "https://img1.etsystatic.com/179/1/5227770/il_570xN.1156550717_pxm8.jpg",
+          "http://placehold.it/32x32"
+        ],
+        "quantity": 5,
+        "price": 2730.59,
+        "dailyDealPrice": 1000.00,
+        "description": "Exercitation ipsum adipisicing Lorem aliqua cillum enim sit. In fugiat elit velit dolore Lorem quis enim enim quis. Minim adipisicing velit deserunt velit eiusmod non anim esse in duis exercitation ullamco.\r\n",
+        "tags": [
+          "proident",
+          "cupidatat",
+          "reprehenderit",
+          "mollit",
+          "labore",
+          "non",
+          "nisi"
+        ]
+      },
+      "d6cc1a46-5462-4dd6-8c0e-e5ab6e1c93e8": {
+        "productName": "elit qui aliquip",
+        "seller": {
+          "id": "98f29d48-3017-43b8-946d-2b5bd2c00d88",
+          "name": "Pushcart",
+          "address": {
+            "street": "Knapp Street",
+            "city": "Hanover",
+            "state": "CA",
+            "country": "US",
+            "zip": 5
+          }
+        },
+        "images": [
+          "https://img0.etsystatic.com/149/2/6333476/il_570xN.1205456336_13bh.jpg",
+          "http://placehold.it/32x32"
+        ],
+        "quantity": 4,
+        "price": 3126.97,
+        "dailyDealPrice": 1000.00,
+        "description": "Proident velit cillum occaecat ut nulla voluptate dolore sit veniam et sunt exercitation enim qui. Voluptate laborum deserunt duis ad eu nostrud adipisicing aliqua deserunt eu laborum id consectetur commodo. Laboris id aute amet quis incididunt ipsum anim. Ullamco excepteur duis pariatur ullamco tempor dolor ipsum sunt.\r\n",
+        "tags": [
+          "laborum",
+          "deserunt",
+          "Lorem",
+          "nisi",
+          "quis",
+          "magna",
+          "eiusmod"
+        ]
+      },
+      "b2586d48-0572-4c28-92de-76465d50952a": {
+        "productName": "irure aute",
+        "seller": {
+          "id": "8b908196-8e99-47a9-8125-85190d589952",
+          "name": "Enjola",
+          "address": {
+            "street": "Dupont Street",
+            "city": "Kansas",
+            "state": "CA",
+            "country": "US",
+            "zip": 5
+          }
+        },
+        "images": [
+          "https://img0.etsystatic.com/150/1/15101821/il_570xN.1205965058_otgi.jpg",
+          "http://placehold.it/32x32"
+        ],
+        "quantity": 4,
+        "price": 3164.82,
+        "dailyDealPrice": 1000.00,
+        "description": "Id anim dolor elit eu ex incididunt labore et duis. Deserunt dolore dolore esse minim cupidatat ad. Fugiat excepteur laboris duis laboris nostrud dolore duis ea occaecat sunt pariatur consequat consectetur minim. Nulla mollit fugiat dolor enim non sit commodo sit et ut minim laboris. Nisi reprehenderit laborum consequat sint et.\r\n",
+        "tags": [
+          "nulla",
+          "sint",
+          "dolore",
+          "culpa",
+          "et",
+          "eu",
+          "fugiat"
+        ]
+      }
+  },
+  "inventory": {
+      "8b9846d7-9df4-440c-8bbc-88b8a9fc7217": {
+        "productName": "culpa nostrud ullamco ex",
+        "seller": {
+          "id": "cd1c6c72-64ae-4f64-9235-03c4f2eb39f1",
+          "name": "Applideck",
+          "address": {
+            "street": "Hubbard Place",
+            "city": "Ferney",
+            "state": "CA",
+            "country": "US",
+            "zip": 5
+          }
+        },
+        "images": [
+          "https://img0.etsystatic.com/201/0/6333476/il_570xN.1211295880_dhiv.jpg",
+          "http://placehold.it/32x32"
+        ],
+        "quantity": 1,
+        "price": 1347.39,
+        "dailyDealPrice": 1000.00,
+        "description": "Laborum tempor nulla reprehenderit dolor sunt dolor velit est. Sint in pariatur enim sint magna fugiat id veniam. Laborum labore in aute sit id pariatur eu qui est ut labore elit. Laboris eu ex sunt mollit officia.\r\n",
+        "tags": [
+          "do",
+          "fugiat",
+          "tempor",
+          "laboris",
+          "voluptate",
+          "veniam",
+          "aute"
+        ]
+      },
+      "bd9f7a6e-2372-4699-8c71-274de3da1269": {
+        "productName": "laborum",
+        "seller": {
+          "id": "c9a7a807-c3b9-4d10-825b-1cf27887f30a",
+          "name": "Futuris",
+          "address": {
+            "street": "Rutland Road",
+            "city": "Sidman",
+            "state": "CA",
+            "country": "US",
+            "zip": 5
+          }
+        },
+        "images": [
+          "https://img1.etsystatic.com/043/2/7751778/il_570xN.538241701_167v.jpg",
+          "http://placehold.it/32x32"
+        ],
+        "quantity": 3,
+        "price": 2073.43,
+        "dailyDealPrice": 1000.00,
+        "description": "Deserunt consectetur in tempor consectetur reprehenderit proident irure eu in officia dolore do dolor nisi. Eu in quis tempor cupidatat velit tempor adipisicing. Eiusmod eiusmod elit non irure nostrud. Laborum sint cupidatat cillum amet. Anim magna dolor laboris excepteur ipsum in minim. Qui fugiat aliqua quis laborum nisi anim ut veniam ipsum anim irure. Adipisicing aliquip aute commodo pariatur ex elit.\r\n",
+        "tags": [
+          "duis",
+          "ea",
+          "sunt",
+          "eu",
+          "proident",
+          "est",
+          "fugiat"
+        ]
+      },
+      "171ec255-98fa-476c-befe-48b6d6af4486": {
+        "productName": "proident veniam et excepteur",
+        "seller": {
+          "id": "00301ccf-60e8-41b6-b20b-c5dec97d87fe",
+          "name": "Lotron",
+          "address": {
+            "street": "Kings Hwy",
+            "city": "Kersey",
+            "state": "CA",
+            "country": "US",
+            "zip": 5
+          }
+        },
+        "images": [
+          "https://img0.etsystatic.com/138/0/11887158/il_570xN.855579034_i88s.jpg",
+          "http://placehold.it/32x32"
+        ],
+        "quantity": 4,
+        "price": 3154.65,
+        "dailyDealPrice": 1000.00,
+        "description": "Deserunt sunt ea deserunt sit deserunt mollit quis eu tempor nostrud commodo labore aute incididunt. Exercitation esse reprehenderit elit laborum. Labore in est amet Lorem culpa laborum culpa sit occaecat. Mollit incididunt aliquip tempor et minim voluptate consectetur laborum. Ad voluptate eu sunt duis sunt aliqua fugiat eiusmod culpa officia velit esse id. Voluptate ipsum nulla ullamco officia laboris amet magna aliqua aute laboris ut.\r\n",
+        "tags": [
+          "veniam",
+          "incididunt",
+          "sit",
+          "ut",
+          "magna",
+          "id",
+          "laborum"
+        ]
+      },
+      "e5cada70-8953-44e3-b087-8284decadef6": {
+        "productName": "et",
+        "seller": {
+          "id": "fdabe4e9-1a0e-4aa8-81eb-d82dcd820541",
+          "name": "Greeker",
+          "address": {
+            "street": "Cypress Court",
+            "city": "Lutsen",
+            "state": "CA",
+            "country": "US",
+            "zip": 5
+          }
+        },
+        "images": [
+          "https://img1.etsystatic.com/179/1/5227770/il_570xN.1156550717_pxm8.jpg",
+          "http://placehold.it/32x32"
+        ],
+        "quantity": 5,
+        "price": 2730.59,
+        "dailyDealPrice": 1000.00,
+        "description": "Exercitation ipsum adipisicing Lorem aliqua cillum enim sit. In fugiat elit velit dolore Lorem quis enim enim quis. Minim adipisicing velit deserunt velit eiusmod non anim esse in duis exercitation ullamco.\r\n",
+        "tags": [
+          "proident",
+          "cupidatat",
+          "reprehenderit",
+          "mollit",
+          "labore",
+          "non",
+          "nisi"
+        ]
+      },
+      "d6cc1a46-5462-4dd6-8c0e-e5ab6e1c93e8": {
+        "productName": "elit qui aliquip",
+        "seller": {
+          "id": "98f29d48-3017-43b8-946d-2b5bd2c00d88",
+          "name": "Pushcart",
+          "address": {
+            "street": "Knapp Street",
+            "city": "Hanover",
+            "state": "CA",
+            "country": "US",
+            "zip": 5
+          }
+        },
+        "images": [
+          "https://img0.etsystatic.com/149/2/6333476/il_570xN.1205456336_13bh.jpg",
+          "http://placehold.it/32x32"
+        ],
+        "quantity": 4,
+        "price": 3126.97,
+        "dailyDealPrice": 1000.00,
+        "description": "Proident velit cillum occaecat ut nulla voluptate dolore sit veniam et sunt exercitation enim qui. Voluptate laborum deserunt duis ad eu nostrud adipisicing aliqua deserunt eu laborum id consectetur commodo. Laboris id aute amet quis incididunt ipsum anim. Ullamco excepteur duis pariatur ullamco tempor dolor ipsum sunt.\r\n",
+        "tags": [
+          "laborum",
+          "deserunt",
+          "Lorem",
+          "nisi",
+          "quis",
+          "magna",
+          "eiusmod"
+        ]
+      },
+      "b2586d48-0572-4c28-92de-76465d50952a": {
+        "productName": "irure aute",
+        "seller": {
+          "id": "8b908196-8e99-47a9-8125-85190d589952",
+          "name": "Enjola",
+          "address": {
+            "street": "Dupont Street",
+            "city": "Kansas",
+            "state": "CA",
+            "country": "US",
+            "zip": 5
+          }
+        },
+        "images": [
+          "https://img0.etsystatic.com/150/1/15101821/il_570xN.1205965058_otgi.jpg",
+          "http://placehold.it/32x32"
+        ],
+        "quantity": 4,
+        "price": 3164.82,
+        "dailyDealPrice": 1000.00,
+        "description": "Id anim dolor elit eu ex incididunt labore et duis. Deserunt dolore dolore esse minim cupidatat ad. Fugiat excepteur laboris duis laboris nostrud dolore duis ea occaecat sunt pariatur consequat consectetur minim. Nulla mollit fugiat dolor enim non sit commodo sit et ut minim laboris. Nisi reprehenderit laborum consequat sint et.\r\n",
+        "tags": [
+          "nulla",
+          "sint",
+          "dolore",
+          "culpa",
+          "et",
+          "eu",
+          "fugiat"
+        ]
+      }
+  },
+  "products": {
+      "8b9846d7-9df4-440c-8bbc-88b8a9fc7217": {
+        "productName": "culpa nostrud ullamco ex",
+        "seller": {
+          "id": "cd1c6c72-64ae-4f64-9235-03c4f2eb39f1",
+          "name": "Applideck",
+          "address": {
+            "street": "Hubbard Place",
+            "city": "Ferney",
+            "state": "CA",
+            "country": "US",
+            "zip": 5
+          }
+        },
+        "images": [
+          "https://img0.etsystatic.com/201/0/6333476/il_570xN.1211295880_dhiv.jpg",
+          "http://placehold.it/32x32"
+        ],
+        "quantity": 1,
+        "price": 1347.39,
+        "dailyDealPrice": 1000.00,
+        "description": "Laborum tempor nulla reprehenderit dolor sunt dolor velit est. Sint in pariatur enim sint magna fugiat id veniam. Laborum labore in aute sit id pariatur eu qui est ut labore elit. Laboris eu ex sunt mollit officia.\r\n",
+        "tags": [
+          "do",
+          "fugiat",
+          "tempor",
+          "laboris",
+          "voluptate",
+          "veniam",
+          "aute"
+        ]
+      },
+      "bd9f7a6e-2372-4699-8c71-274de3da1269": {
+        "productName": "laborum",
+        "seller": {
+          "id": "c9a7a807-c3b9-4d10-825b-1cf27887f30a",
+          "name": "Futuris",
+          "address": {
+            "street": "Rutland Road",
+            "city": "Sidman",
+            "state": "CA",
+            "country": "US",
+            "zip": 5
+          }
+        },
+        "images": [
+          "https://img1.etsystatic.com/043/2/7751778/il_570xN.538241701_167v.jpg",
+          "http://placehold.it/32x32"
+        ],
+        "quantity": 3,
+        "price": 2073.43,
+        "dailyDealPrice": 1000.00,
+        "description": "Deserunt consectetur in tempor consectetur reprehenderit proident irure eu in officia dolore do dolor nisi. Eu in quis tempor cupidatat velit tempor adipisicing. Eiusmod eiusmod elit non irure nostrud. Laborum sint cupidatat cillum amet. Anim magna dolor laboris excepteur ipsum in minim. Qui fugiat aliqua quis laborum nisi anim ut veniam ipsum anim irure. Adipisicing aliquip aute commodo pariatur ex elit.\r\n",
+        "tags": [
+          "duis",
+          "ea",
+          "sunt",
+          "eu",
+          "proident",
+          "est",
+          "fugiat"
+        ]
+      },
+      "171ec255-98fa-476c-befe-48b6d6af4486": {
+        "productName": "proident veniam et excepteur",
+        "seller": {
+          "id": "00301ccf-60e8-41b6-b20b-c5dec97d87fe",
+          "name": "Lotron",
+          "address": {
+            "street": "Kings Hwy",
+            "city": "Kersey",
+            "state": "CA",
+            "country": "US",
+            "zip": 5
+          }
+        },
+        "images": [
+          "https://img0.etsystatic.com/138/0/11887158/il_570xN.855579034_i88s.jpg",
+          "http://placehold.it/32x32"
+        ],
+        "quantity": 4,
+        "price": 3154.65,
+        "dailyDealPrice": 1000.00,
+        "description": "Deserunt sunt ea deserunt sit deserunt mollit quis eu tempor nostrud commodo labore aute incididunt. Exercitation esse reprehenderit elit laborum. Labore in est amet Lorem culpa laborum culpa sit occaecat. Mollit incididunt aliquip tempor et minim voluptate consectetur laborum. Ad voluptate eu sunt duis sunt aliqua fugiat eiusmod culpa officia velit esse id. Voluptate ipsum nulla ullamco officia laboris amet magna aliqua aute laboris ut.\r\n",
+        "tags": [
+          "veniam",
+          "incididunt",
+          "sit",
+          "ut",
+          "magna",
+          "id",
+          "laborum"
+        ]
+      },
+      "e5cada70-8953-44e3-b087-8284decadef6": {
+        "productName": "et",
+        "seller": {
+          "id": "fdabe4e9-1a0e-4aa8-81eb-d82dcd820541",
+          "name": "Greeker",
+          "address": {
+            "street": "Cypress Court",
+            "city": "Lutsen",
+            "state": "CA",
+            "country": "US",
+            "zip": 5
+          }
+        },
+        "images": [
+          "https://img1.etsystatic.com/179/1/5227770/il_570xN.1156550717_pxm8.jpg",
+          "http://placehold.it/32x32"
+        ],
+        "quantity": 5,
+        "price": 2730.59,
+        "dailyDealPrice": 1000.00,
+        "description": "Exercitation ipsum adipisicing Lorem aliqua cillum enim sit. In fugiat elit velit dolore Lorem quis enim enim quis. Minim adipisicing velit deserunt velit eiusmod non anim esse in duis exercitation ullamco.\r\n",
+        "tags": [
+          "proident",
+          "cupidatat",
+          "reprehenderit",
+          "mollit",
+          "labore",
+          "non",
+          "nisi"
+        ]
+      },
+      "d6cc1a46-5462-4dd6-8c0e-e5ab6e1c93e8": {
+        "productName": "elit qui aliquip",
+        "seller": {
+          "id": "98f29d48-3017-43b8-946d-2b5bd2c00d88",
+          "name": "Pushcart",
+          "address": {
+            "street": "Knapp Street",
+            "city": "Hanover",
+            "state": "CA",
+            "country": "US",
+            "zip": 5
+          }
+        },
+        "images": [
+          "https://img0.etsystatic.com/149/2/6333476/il_570xN.1205456336_13bh.jpg",
+          "http://placehold.it/32x32"
+        ],
+        "quantity": 4,
+        "price": 3126.97,
+        "dailyDealPrice": 1000.00,
+        "description": "Proident velit cillum occaecat ut nulla voluptate dolore sit veniam et sunt exercitation enim qui. Voluptate laborum deserunt duis ad eu nostrud adipisicing aliqua deserunt eu laborum id consectetur commodo. Laboris id aute amet quis incididunt ipsum anim. Ullamco excepteur duis pariatur ullamco tempor dolor ipsum sunt.\r\n",
+        "tags": [
+          "laborum",
+          "deserunt",
+          "Lorem",
+          "nisi",
+          "quis",
+          "magna",
+          "eiusmod"
+        ]
+      },
+      "b2586d48-0572-4c28-92de-76465d50952a": {
+        "productName": "irure aute",
+        "seller": {
+          "id": "8b908196-8e99-47a9-8125-85190d589952",
+          "name": "Enjola",
+          "address": {
+            "street": "Dupont Street",
+            "city": "Kansas",
+            "state": "CA",
+            "country": "US",
+            "zip": 5
+          }
+        },
+        "images": [
+          "https://img0.etsystatic.com/150/1/15101821/il_570xN.1205965058_otgi.jpg",
+          "http://placehold.it/32x32"
+        ],
+        "quantity": 4,
+        "price": 3164.82,
+        "dailyDealPrice": 1000.00,
+        "description": "Id anim dolor elit eu ex incididunt labore et duis. Deserunt dolore dolore esse minim cupidatat ad. Fugiat excepteur laboris duis laboris nostrud dolore duis ea occaecat sunt pariatur consequat consectetur minim. Nulla mollit fugiat dolor enim non sit commodo sit et ut minim laboris. Nisi reprehenderit laborum consequat sint et.\r\n",
+        "tags": [
+          "nulla",
+          "sint",
+          "dolore",
+          "culpa",
+          "et",
+          "eu",
+          "fugiat"
+        ]
+      }
+  },
+  "vendors": {
+      "8b9846d7-9df4-440c-8bbc-88b8a9fc7217": {
+        "vendorName": "Casa de Paco",
+        "socialMedias": [{
+            "type": "Facebook",
+            "url": "#",
+            "description": "facebook.com/lorem.ipsum"
+          },
+          {
+            "type": "Twitter",
+            "url": "#",
+            "description": "lorem.ipsum"
+          },
+          {
+            "type": "Instagram",
+            "url": "#",
+            "description": "lorem.ipsum"
+          }
+        ],
+        "contactInformation": [{
+            "type": "Phone",
+            "icon": "phone",
+            "value": "(909) 123-4567"
+          },
+          {
+            "type": "Email",
+            "icon": "email",
+            "value": "email@sample.com"
+          },
+          {
+            "type": "Address",
+            "icon": "business",
+            "value": "5500 Commerce Dr Palm Desert, CA"
+          }
+        ],
+        "about": "Laborum tempor nulla reprehenderit dolor sunt dolor velit est. Sint in pariatur enim sint magna fugiat id veniam. Laborum labore in aute sit id pariatur eu qui est ut labore elit. Laboris eu ex sunt mollit officia.\r\n",
+        "hoursOfOperation": [{
+            "day": "Monday",
+            "openTime": "07:00",
+            "closeTime": "18:00"
+          },
+          {
+            "day": "Tuesday",
+            "openTime": "07:00",
+            "closeTime": "18:00"
+          },
+          {
+            "day": "Wednesday",
+            "openTime": "07:00",
+            "closeTime": "18:00"
+          },
+          {
+            "day": "Thursday",
+            "openTime": "07:00",
+            "closeTime": "18:00"
+          },
+          {
+            "day": "Friday",
+            "openTime": "07:00",
+            "closeTime": "18:00"
+          },
+          {
+            "day": "Saturday",
+            "isOpen": false,
+            "openTime": null,
+            "closeTime": null
+          },
+          {
+            "day": "Sunday",
+            "isOpen": false,
+            "openTime": null,
+            "closeTime": null
+          }
+        ]
+      },
+      "bd9f7a6e-2372-4699-8c71-274de3da1269": {
+        "vendorName": "Joe's Shoes Shop",
+        "socialMedias": [{
+            "type": "facebook",
+            "url": "#",
+            "description": "facebook.com/lorem.ipsum"
+          },
+          {
+            "type": "twitter",
+            "url": "#",
+            "description": "lorem.ipsum"
+          },
+          {
+            "type": "instagram",
+            "url": "#",
+            "description": "lorem.ipsum"
+          }
+        ],
+        "contactInformation": [{
+            "type": "Phone",
+            "icon": "phone",
+            "value": "(909) 123-4567"
+          },
+          {
+            "type": "Email",
+            "icon": "email",
+            "value": "email@sample.com"
+          },
+          {
+            "type": "Address",
+            "icon": "business",
+            "value": "5500 Commerce Dr Palm Desert, CA"
+          }
+        ],
+        "about": "Laborum tempor nulla reprehenderit dolor sunt dolor velit est. Sint in pariatur enim sint magna fugiat id veniam. Laborum labore in aute sit id pariatur eu qui est ut labore elit. Laboris eu ex sunt mollit officia.\r\n",
+        "hoursOfOperation": [{
+            "day": "Monday",
+            "openTime": "07:00",
+            "closeTime": "18:00"
+          },
+          {
+            "day": "Tuesday",
+            "openTime": "07:00",
+            "closeTime": "18:00"
+          },
+          {
+            "day": "Wednesday",
+            "openTime": "07:00",
+            "closeTime": "18:00"
+          },
+          {
+            "day": "Thursday",
+            "openTime": "07:00",
+            "closeTime": "18:00"
+          },
+          {
+            "day": "Friday",
+            "openTime": "07:00",
+            "closeTime": "18:00"
+          },
+          {
+            "day": "Saturday",
+            "isOpen": false,
+            "openTime": null,
+            "closeTime": null
+          },
+          {
+            "day": "Sunday",
+            "isOpen": false,
+            "openTime": null,
+            "closeTime": null
+          }
+        ]
+      }
+  }
+}
