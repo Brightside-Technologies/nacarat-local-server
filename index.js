@@ -3,8 +3,6 @@ const low = require('lowdb')
 const FileSync = require('lowdb/adapters/FileSync')
 const adapter = new FileSync('db.json');
 const db = low(adapter);
-//console.log('db', db);
-// Create server
 const app = express()
 
 // Routes
@@ -15,14 +13,14 @@ app.use(function(req, res, next) {
 });
 //************* PRODUCTS **************//
 // GET /products
-app.get('/products', (req, res) => {
+app.get('/products.json', (req, res) => {
   const products = db.get('products')
     .value()
   res.send(products)
 })
 
 // GET /posts/:id
-app.get('/products/:id', (req, res) => {
+app.get('/products/:id' + '.json', (req, res) => {
   const products = db.get('products')
     .value()
 
