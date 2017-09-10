@@ -19,7 +19,7 @@ app.get('/products.json', (req, res) => {
   res.send(products)
 })
 
-// GET /posts/:id
+// GET /products/:id
 app.get('/products/:id' + '.json', (req, res) => {
   const products = db.get('products')
     .value()
@@ -41,15 +41,15 @@ app.get('/products/:id' + '.json', (req, res) => {
 //**************************************//
 
 //************* VENDORS **************//
-// GET /vendors
-app.get('/vendors', (req, res) => {
+// GET /vendors.json
+app.get('/vendors.json', (req, res) => {
   const vendors = db.get('vendors')
     .value()
   res.send(vendors)
 })
 
-// GET /posts/:id
-app.get('/vendors/:id', (req, res) => {
+// GET /vendors/:id
+app.get('/vendors/:id' + '.json', (req, res) => {
   const vendors = db.get('vendors')
     .value()
 
@@ -68,4 +68,39 @@ app.get('/vendors/:id', (req, res) => {
 // })
 
 //**************************************//
+
+//************* Inventories **************//
+// GET /inventory
+app.get('/vendors/:vendorId/inventories.json', (req, res) => {
+  const vendors = db.get('vendors')
+  .value()
+  const vendor = vendors[req.params.vendorId];
+  const inventories = vendor.inventories;
+  res.send(inventories)
+})
+
+// GET /inventory/:id
+app.get('/vendors/:vendorId/inventories/:inventoryId' + '.json', (req, res) => {
+  console.log('req.params', req.params)
+  const vendors = db.get('vendors')
+    .value()
+    const vendor = vendors[req.params.vendorId];
+    const inventories = vendor.inventories;
+
+  const inventory = inventories[req.params.inventoryId];
+  res.send(inventory)
+})
+
+// POST /posts
+// app.post('/posts', (req, res) => {
+//   db.get('posts')
+//     .push(req.body)
+//     .last()
+//     .assign({ id: Date.now() })
+//     .write()
+//     .then(post => res.send(post))
+// })
+
+//**************************************//
+
 app.listen(3000, () => console.log('listening on port 3000'))
