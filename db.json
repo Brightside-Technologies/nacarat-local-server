@@ -829,7 +829,7 @@
       },
       "bd9f7a6e-2372-4699-8c71-274de3da1269": {
         "profile":{
-          "vendorName": "Joe's Shoes Shop",
+          "vendorName": "Yellow Mart",
           "socialMedias": [{
               "type": "facebook",
               "url": "#",
@@ -1089,7 +1089,17 @@
               "fugiat"
             ]
           }
+      }, 
+      "users":{
+        "VUaRLoiMIMXm9KaoyKs94zPoCBi2": {
+          "email": "yellowmart@info.com"
+        }
       }
       }
+  }, 
+  "users": {
+    "VUaRLoiMIMXm9KaoyKs94zPoCBi2": {
+      "storeId": "bd9f7a6e-2372-4699-8c71-274de3da1269"
+    }
   }
 }

@@ -103,4 +103,19 @@ app.get('/vendors/:vendorId/inventories/:inventoryId' + '.json', (req, res) => {
 
 //**************************************//
 
+
+//************* Users **************//
+
+// GET /users/:id
+app.get('/users/:userId' + '.json', (req, res) => {
+  console.log('req.params', req.params)
+  const users = db.get('users')
+    .value()
+    const user = users[req.params.userId];
+
+  res.send(user)
+})
+
+//**************************************//
+
 app.listen(3000, () => console.log('listening on port 3000'))
