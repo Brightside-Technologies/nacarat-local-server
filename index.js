@@ -91,15 +91,26 @@ app.get('/vendors/:vendorId/inventories/:inventoryId' + '.json', (req, res) => {
   res.send(inventory)
 })
 
-// POST /posts
-// app.post('/posts', (req, res) => {
-//   db.get('posts')
-//     .push(req.body)
-//     .last()
-//     .assign({ id: Date.now() })
-//     .write()
-//     .then(post => res.send(post))
-// })
+//POST /posts
+app.post('/vendors/:vendorId/inventories.json', (req, res) => {
+  console.log('req', req);
+  var vendors = db
+  .get('vendors')
+  .get(req.params.vendorId)
+  .get('inventories')
+  .assign(req.body)
+  .write()
+  res.send({
+    "status": 200
+  })
+
+  // db.get('vendors')
+  //   .push(req.body)
+  //   .last()
+  //   .assign({ id: Date.now() })
+  //   .write()
+  //   .then(post => res.send(post))
+})
 
 //**************************************//
 
@@ -118,4 +129,22 @@ app.get('/users/:userId' + '.json', (req, res) => {
 
 //**************************************//
 
+app.get('/foos', (req, res) => {
+  const vendors = db
+  .get('vendors')
+  .get('8b9846d7-9df4-440c-8bbc-88b8a9fc7217')
+  .get('profile')
+  .value()
+  console.log('vendors', vendors)
+
+  res.send(vendors)
+})
+app.post('/foos', (req, res) => {
+  db.get('posts')
+  .push({ id: 1, title: 'lowdb is awesome'})
+  .write()
+  res.send({
+    "status": 200
+  })
+})
 app.listen(3000, () => console.log('listening on port 3000'))
