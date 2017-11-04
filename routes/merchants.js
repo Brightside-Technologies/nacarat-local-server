@@ -15,8 +15,12 @@ router.get('/merchants.json', (req, res) => {
         .value();
 
     if (req.query) {
-        var merchantId = _.findKey(merchants, { 'userId': req.query.equalTo.replace(/"/g, "") });
-        merchants = merchants[merchantId];
+        var merchantId = _.findKey(merchants, {
+            'userId': req.query.equalTo.replace(/"/g, "")
+        });
+        var merchantObj = {};
+        merchantObj[merchantId] = merchants[merchantId];
+        merchants = merchantObj;
     }
 
     res.send(merchants);
