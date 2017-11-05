@@ -13,13 +13,23 @@
           "zip": 5
         }
       },
-      "images": ["https://img0.etsystatic.com/201/0/6333476/il_570xN.1211295880_dhiv.jpg", "http://placehold.it/32x32"],
+      "images": [
+        "https://img0.etsystatic.com/201/0/6333476/il_570xN.1211295880_dhiv.jpg",
+        "http://placehold.it/32x32"
+      ],
       "quantity": 1,
       "price": 1347.39,
       "dailyDealPrice": 1000,
-      "description":
-        "Laborum tempor nulla reprehenderit dolor sunt dolor velit est. Sint in pariatur enim sint magna fugiat id veniam. Laborum labore in aute sit id pariatur eu qui est ut labore elit. Laboris eu ex sunt mollit officia.\r\n",
-      "tags": ["do", "fugiat", "tempor", "laboris", "voluptate", "veniam", "aute"]
+      "description": "Laborum tempor nulla reprehenderit dolor sunt dolor velit est. Sint in pariatur enim sint magna fugiat id veniam. Laborum labore in aute sit id pariatur eu qui est ut labore elit. Laboris eu ex sunt mollit officia.\r\n",
+      "tags": [
+        "do",
+        "fugiat",
+        "tempor",
+        "laboris",
+        "voluptate",
+        "veniam",
+        "aute"
+      ]
     },
     "bd9f7a6e-2372-4699-8c71-274de3da1269": {
       "productName": "laborum",
@@ -34,13 +44,23 @@
           "zip": 5
         }
       },
-      "images": ["https://img1.etsystatic.com/043/2/7751778/il_570xN.538241701_167v.jpg", "http://placehold.it/32x32"],
+      "images": [
+        "https://img1.etsystatic.com/043/2/7751778/il_570xN.538241701_167v.jpg",
+        "http://placehold.it/32x32"
+      ],
       "quantity": 3,
       "price": 2073.43,
       "dailyDealPrice": 1000,
-      "description":
-        "Deserunt consectetur in tempor consectetur reprehenderit proident irure eu in officia dolore do dolor nisi. Eu in quis tempor cupidatat velit tempor adipisicing. Eiusmod eiusmod elit non irure nostrud. Laborum sint cupidatat cillum amet. Anim magna dolor laboris excepteur ipsum in minim. Qui fugiat aliqua quis laborum nisi anim ut veniam ipsum anim irure. Adipisicing aliquip aute commodo pariatur ex elit.\r\n",
-      "tags": ["duis", "ea", "sunt", "eu", "proident", "est", "fugiat"]
+      "description": "Deserunt consectetur in tempor consectetur reprehenderit proident irure eu in officia dolore do dolor nisi. Eu in quis tempor cupidatat velit tempor adipisicing. Eiusmod eiusmod elit non irure nostrud. Laborum sint cupidatat cillum amet. Anim magna dolor laboris excepteur ipsum in minim. Qui fugiat aliqua quis laborum nisi anim ut veniam ipsum anim irure. Adipisicing aliquip aute commodo pariatur ex elit.\r\n",
+      "tags": [
+        "duis",
+        "ea",
+        "sunt",
+        "eu",
+        "proident",
+        "est",
+        "fugiat"
+      ]
     },
     "171ec255-98fa-476c-befe-48b6d6af4486": {
       "productName": "proident veniam et excepteur",
@@ -55,13 +75,23 @@
           "zip": 5
         }
       },
-      "images": ["https://img0.etsystatic.com/138/0/11887158/il_570xN.855579034_i88s.jpg", "http://placehold.it/32x32"],
+      "images": [
+        "https://img0.etsystatic.com/138/0/11887158/il_570xN.855579034_i88s.jpg",
+        "http://placehold.it/32x32"
+      ],
       "quantity": 4,
       "price": 3154.65,
       "dailyDealPrice": 1000,
-      "description":
-        "Deserunt sunt ea deserunt sit deserunt mollit quis eu tempor nostrud commodo labore aute incididunt. Exercitation esse reprehenderit elit laborum. Labore in est amet Lorem culpa laborum culpa sit occaecat. Mollit incididunt aliquip tempor et minim voluptate consectetur laborum. Ad voluptate eu sunt duis sunt aliqua fugiat eiusmod culpa officia velit esse id. Voluptate ipsum nulla ullamco officia laboris amet magna aliqua aute laboris ut.\r\n",
-      "tags": ["veniam", "incididunt", "sit", "ut", "magna", "id", "laborum"]
+      "description": "Deserunt sunt ea deserunt sit deserunt mollit quis eu tempor nostrud commodo labore aute incididunt. Exercitation esse reprehenderit elit laborum. Labore in est amet Lorem culpa laborum culpa sit occaecat. Mollit incididunt aliquip tempor et minim voluptate consectetur laborum. Ad voluptate eu sunt duis sunt aliqua fugiat eiusmod culpa officia velit esse id. Voluptate ipsum nulla ullamco officia laboris amet magna aliqua aute laboris ut.\r\n",
+      "tags": [
+        "veniam",
+        "incididunt",
+        "sit",
+        "ut",
+        "magna",
+        "id",
+        "laborum"
+      ]
     },
     "e5cada70-8953-44e3-b087-8284decadef6": {
       "productName": "et",
@@ -76,13 +106,23 @@
           "zip": 5
         }
       },
-      "images": ["https://img1.etsystatic.com/179/1/5227770/il_570xN.1156550717_pxm8.jpg", "http://placehold.it/32x32"],
+      "images": [
+        "https://img1.etsystatic.com/179/1/5227770/il_570xN.1156550717_pxm8.jpg",
+        "http://placehold.it/32x32"
+      ],
       "quantity": 5,
       "price": 2730.59,
       "dailyDealPrice": 1000,
-      "description":
-        "Exercitation ipsum adipisicing Lorem aliqua cillum enim sit. In fugiat elit velit dolore Lorem quis enim enim quis. Minim adipisicing velit deserunt velit eiusmod non anim esse in duis exercitation ullamco.\r\n",
-      "tags": ["proident", "cupidatat", "reprehenderit", "mollit", "labore", "non", "nisi"]
+      "description": "Exercitation ipsum adipisicing Lorem aliqua cillum enim sit. In fugiat elit velit dolore Lorem quis enim enim quis. Minim adipisicing velit deserunt velit eiusmod non anim esse in duis exercitation ullamco.\r\n",
+      "tags": [
+        "proident",
+        "cupidatat",
+        "reprehenderit",
+        "mollit",
+        "labore",
+        "non",
+        "nisi"
+      ]
     },
     "d6cc1a46-5462-4dd6-8c0e-e5ab6e1c93e8": {
       "productName": "elit qui aliquip",
@@ -97,13 +137,23 @@
           "zip": 5
         }
       },
-      "images": ["https://img0.etsystatic.com/149/2/6333476/il_570xN.1205456336_13bh.jpg", "http://placehold.it/32x32"],
+      "images": [
+        "https://img0.etsystatic.com/149/2/6333476/il_570xN.1205456336_13bh.jpg",
+        "http://placehold.it/32x32"
+      ],
       "quantity": 4,
       "price": 3126.97,
       "dailyDealPrice": 1000,
-      "description":
-        "Proident velit cillum occaecat ut nulla voluptate dolore sit veniam et sunt exercitation enim qui. Voluptate laborum deserunt duis ad eu nostrud adipisicing aliqua deserunt eu laborum id consectetur commodo. Laboris id aute amet quis incididunt ipsum anim. Ullamco excepteur duis pariatur ullamco tempor dolor ipsum sunt.\r\n",
-      "tags": ["laborum", "deserunt", "Lorem", "nisi", "quis", "magna", "eiusmod"]
+      "description": "Proident velit cillum occaecat ut nulla voluptate dolore sit veniam et sunt exercitation enim qui. Voluptate laborum deserunt duis ad eu nostrud adipisicing aliqua deserunt eu laborum id consectetur commodo. Laboris id aute amet quis incididunt ipsum anim. Ullamco excepteur duis pariatur ullamco tempor dolor ipsum sunt.\r\n",
+      "tags": [
+        "laborum",
+        "deserunt",
+        "Lorem",
+        "nisi",
+        "quis",
+        "magna",
+        "eiusmod"
+      ]
     },
     "b2586d48-0572-4c28-92de-76465d50952a": {
       "productName": "irure aute",
@@ -125,9 +175,16 @@
       "quantity": 4,
       "price": 3164.82,
       "dailyDealPrice": 1000,
-      "description":
-        "Id anim dolor elit eu ex incididunt labore et duis. Deserunt dolore dolore esse minim cupidatat ad. Fugiat excepteur laboris duis laboris nostrud dolore duis ea occaecat sunt pariatur consequat consectetur minim. Nulla mollit fugiat dolor enim non sit commodo sit et ut minim laboris. Nisi reprehenderit laborum consequat sint et.\r\n",
-      "tags": ["nulla", "sint", "dolore", "culpa", "et", "eu", "fugiat"]
+      "description": "Id anim dolor elit eu ex incididunt labore et duis. Deserunt dolore dolore esse minim cupidatat ad. Fugiat excepteur laboris duis laboris nostrud dolore duis ea occaecat sunt pariatur consequat consectetur minim. Nulla mollit fugiat dolor enim non sit commodo sit et ut minim laboris. Nisi reprehenderit laborum consequat sint et.\r\n",
+      "tags": [
+        "nulla",
+        "sint",
+        "dolore",
+        "culpa",
+        "et",
+        "eu",
+        "fugiat"
+      ]
     }
   },
   "businesses": {
@@ -174,8 +231,7 @@
         },
         "type": "Retail",
         "email": "hello@yellowmart.com",
-        "about":
-          "The Two Goats\nTwo Goats, frisking gayly on the rocky steeps of a mountain valley, chanced to meet, one on each side of a deep chasm through which poured a mighty mountain torrent. The trunk of a fallen tree formed the only means of crossing the chasm, and on this not even two squirrels could have passed each other in safety. The narrow path would have made the bravest tremble. Not so our Goats. Their pride would not permit either to stand aside for the other.\n\nOne set her foot on the log. The other did likewise. In the middle they met horn to horn. Neither would give way, and so they both fell, to be swept away by the roaring torrent below.\n\nIt is better to yield than to come to misfortune through stubbornness.",
+        "about": "The Two Goats\nTwo Goats, frisking gayly on the rocky steeps of a mountain valley, chanced to meet, one on each side of a deep chasm through which poured a mighty mountain torrent. The trunk of a fallen tree formed the only means of crossing the chasm, and on this not even two squirrels could have passed each other in safety. The narrow path would have made the bravest tremble. Not so our Goats. Their pride would not permit either to stand aside for the other.\n\nOne set her foot on the log. The other did likewise. In the middle they met horn to horn. Neither would give way, and so they both fell, to be swept away by the roaring torrent below.\n\nIt is better to yield than to come to misfortune through stubbornness.",
         "hoursOfOperation": {
           "Monday": {
             "openTime": "07:00",
@@ -235,9 +291,16 @@
           "quantity": 1,
           "price": 1347.39,
           "dailyDealPrice": 1000,
-          "description":
-            "Laborum tempor nulla reprehenderit dolor sunt dolor velit est. Sint in pariatur enim sint magna fugiat id veniam. Laborum labore in aute sit id pariatur eu qui est ut labore elit. Laboris eu ex sunt mollit officia.\r\n",
-          "tags": ["do", "fugiat", "tempor", "laboris", "voluptate", "veniam", "aute"]
+          "description": "Laborum tempor nulla reprehenderit dolor sunt dolor velit est. Sint in pariatur enim sint magna fugiat id veniam. Laborum labore in aute sit id pariatur eu qui est ut labore elit. Laboris eu ex sunt mollit officia.\r\n",
+          "tags": [
+            "do",
+            "fugiat",
+            "tempor",
+            "laboris",
+            "voluptate",
+            "veniam",
+            "aute"
+          ]
         },
         "bd9f7a6e-2372-4699-8c71-274de3da1269": {
           "productName": "laborum",
@@ -259,9 +322,16 @@
           "quantity": 3,
           "price": 2073.43,
           "dailyDealPrice": 1000,
-          "description":
-            "Deserunt consectetur in tempor consectetur reprehenderit proident irure eu in officia dolore do dolor nisi. Eu in quis tempor cupidatat velit tempor adipisicing. Eiusmod eiusmod elit non irure nostrud. Laborum sint cupidatat cillum amet. Anim magna dolor laboris excepteur ipsum in minim. Qui fugiat aliqua quis laborum nisi anim ut veniam ipsum anim irure. Adipisicing aliquip aute commodo pariatur ex elit.\r\n",
-          "tags": ["duis", "ea", "sunt", "eu", "proident", "est", "fugiat"]
+          "description": "Deserunt consectetur in tempor consectetur reprehenderit proident irure eu in officia dolore do dolor nisi. Eu in quis tempor cupidatat velit tempor adipisicing. Eiusmod eiusmod elit non irure nostrud. Laborum sint cupidatat cillum amet. Anim magna dolor laboris excepteur ipsum in minim. Qui fugiat aliqua quis laborum nisi anim ut veniam ipsum anim irure. Adipisicing aliquip aute commodo pariatur ex elit.\r\n",
+          "tags": [
+            "duis",
+            "ea",
+            "sunt",
+            "eu",
+            "proident",
+            "est",
+            "fugiat"
+          ]
         },
         "171ec255-98fa-476c-befe-48b6d6af4486": {
           "productName": "proident veniam et excepteur",
@@ -283,9 +353,16 @@
           "quantity": 4,
           "price": 3154.65,
           "dailyDealPrice": 1000,
-          "description":
-            "Deserunt sunt ea deserunt sit deserunt mollit quis eu tempor nostrud commodo labore aute incididunt. Exercitation esse reprehenderit elit laborum. Labore in est amet Lorem culpa laborum culpa sit occaecat. Mollit incididunt aliquip tempor et minim voluptate consectetur laborum. Ad voluptate eu sunt duis sunt aliqua fugiat eiusmod culpa officia velit esse id. Voluptate ipsum nulla ullamco officia laboris amet magna aliqua aute laboris ut.\r\n",
-          "tags": ["veniam", "incididunt", "sit", "ut", "magna", "id", "laborum"]
+          "description": "Deserunt sunt ea deserunt sit deserunt mollit quis eu tempor nostrud commodo labore aute incididunt. Exercitation esse reprehenderit elit laborum. Labore in est amet Lorem culpa laborum culpa sit occaecat. Mollit incididunt aliquip tempor et minim voluptate consectetur laborum. Ad voluptate eu sunt duis sunt aliqua fugiat eiusmod culpa officia velit esse id. Voluptate ipsum nulla ullamco officia laboris amet magna aliqua aute laboris ut.\r\n",
+          "tags": [
+            "veniam",
+            "incididunt",
+            "sit",
+            "ut",
+            "magna",
+            "id",
+            "laborum"
+          ]
         },
         "e5cada70-8953-44e3-b087-8284decadef6": {
           "productName": "et",
@@ -307,9 +384,16 @@
           "quantity": 5,
           "price": 2730.59,
           "dailyDealPrice": 1000,
-          "description":
-            "Exercitation ipsum adipisicing Lorem aliqua cillum enim sit. In fugiat elit velit dolore Lorem quis enim enim quis. Minim adipisicing velit deserunt velit eiusmod non anim esse in duis exercitation ullamco.\r\n",
-          "tags": ["proident", "cupidatat", "reprehenderit", "mollit", "labore", "non", "nisi"]
+          "description": "Exercitation ipsum adipisicing Lorem aliqua cillum enim sit. In fugiat elit velit dolore Lorem quis enim enim quis. Minim adipisicing velit deserunt velit eiusmod non anim esse in duis exercitation ullamco.\r\n",
+          "tags": [
+            "proident",
+            "cupidatat",
+            "reprehenderit",
+            "mollit",
+            "labore",
+            "non",
+            "nisi"
+          ]
         },
         "d6cc1a46-5462-4dd6-8c0e-e5ab6e1c93e8": {
           "productName": "elit qui aliquip",
@@ -331,9 +415,16 @@
           "quantity": 4,
           "price": 3126.97,
           "dailyDealPrice": 1000,
-          "description":
-            "Proident velit cillum occaecat ut nulla voluptate dolore sit veniam et sunt exercitation enim qui. Voluptate laborum deserunt duis ad eu nostrud adipisicing aliqua deserunt eu laborum id consectetur commodo. Laboris id aute amet quis incididunt ipsum anim. Ullamco excepteur duis pariatur ullamco tempor dolor ipsum sunt.\r\n",
-          "tags": ["laborum", "deserunt", "Lorem", "nisi", "quis", "magna", "eiusmod"]
+          "description": "Proident velit cillum occaecat ut nulla voluptate dolore sit veniam et sunt exercitation enim qui. Voluptate laborum deserunt duis ad eu nostrud adipisicing aliqua deserunt eu laborum id consectetur commodo. Laboris id aute amet quis incididunt ipsum anim. Ullamco excepteur duis pariatur ullamco tempor dolor ipsum sunt.\r\n",
+          "tags": [
+            "laborum",
+            "deserunt",
+            "Lorem",
+            "nisi",
+            "quis",
+            "magna",
+            "eiusmod"
+          ]
         },
         "b2586d48-0572-4c28-92de-76465d50952a": {
           "productName": "irure aute",
@@ -355,9 +446,16 @@
           "quantity": 4,
           "price": 3164.82,
           "dailyDealPrice": 1000,
-          "description":
-            "Id anim dolor elit eu ex incididunt labore et duis. Deserunt dolore dolore esse minim cupidatat ad. Fugiat excepteur laboris duis laboris nostrud dolore duis ea occaecat sunt pariatur consequat consectetur minim. Nulla mollit fugiat dolor enim non sit commodo sit et ut minim laboris. Nisi reprehenderit laborum consequat sint et.\r\n",
-          "tags": ["nulla", "sint", "dolore", "culpa", "et", "eu", "fugiat"]
+          "description": "Id anim dolor elit eu ex incididunt labore et duis. Deserunt dolore dolore esse minim cupidatat ad. Fugiat excepteur laboris duis laboris nostrud dolore duis ea occaecat sunt pariatur consequat consectetur minim. Nulla mollit fugiat dolor enim non sit commodo sit et ut minim laboris. Nisi reprehenderit laborum consequat sint et.\r\n",
+          "tags": [
+            "nulla",
+            "sint",
+            "dolore",
+            "culpa",
+            "et",
+            "eu",
+            "fugiat"
+          ]
         }
       }
     }
@@ -413,8 +511,7 @@
           },
           "type": "retail",
           "email": "hello@yellowmart.com",
-          "about":
-            "The Two Goats\nTwo Goats, frisking gayly on the rocky steeps of a mountain valley, chanced to meet, one on each side of a deep chasm through which poured a mighty mountain torrent. The trunk of a fallen tree formed the only means of crossing the chasm, and on this not even two squirrels could have passed each other in safety. The narrow path would have made the bravest tremble. Not so our Goats. Their pride would not permit either to stand aside for the other.\n\nOne set her foot on the log. The other did likewise. In the middle they met horn to horn. Neither would give way, and so they both fell, to be swept away by the roaring torrent below.\n\nIt is better to yield than to come to misfortune through stubbornness.",
+          "about": "The Two Goats\nTwo Goats, frisking gayly on the rocky steeps of a mountain valley, chanced to meet, one on each side of a deep chasm through which poured a mighty mountain torrent. The trunk of a fallen tree formed the only means of crossing the chasm, and on this not even two squirrels could have passed each other in safety. The narrow path would have made the bravest tremble. Not so our Goats. Their pride would not permit either to stand aside for the other.\n\nOne set her foot on the log. The other did likewise. In the middle they met horn to horn. Neither would give way, and so they both fell, to be swept away by the roaring torrent below.\n\nIt is better to yield than to come to misfortune through stubbornness.",
           "hoursOfOperation": {
             "Monday": {
               "openTime": "07:00",
