@@ -38,7 +38,7 @@ router.put("/businesses/:businessId/profile/about.json", (req, res) => {
   });
 });
 
-// PUT - Update email :businessId
+// PUT - Update email by :businessId
 router.put("/businesses/:businessId/profile/email.json", (req, res) => {
   db
     .get("businesses")
@@ -53,13 +53,28 @@ router.put("/businesses/:businessId/profile/email.json", (req, res) => {
   });
 });
 
-// PUT - Update phone :businessId
+// PUT - Update phone by :businessId
 router.put("/businesses/:businessId/profile/phone.json", (req, res) => {
   db
     .get("businesses")
     .get(req.params.businessId)
     .get("profile")
     .get("phone")
+    .assign(req.body)
+    .write();
+
+  res.send({
+    status: 200
+  });
+});
+
+// PUT - Update hours of operation by :businessId
+router.put("/businesses/:businessId/profile/hoursOfOperation.json", (req, res) => {
+  db
+    .get("businesses")
+    .get(req.params.businessId)
+    .get("profile")
+    .get("hoursOfOperation")
     .assign(req.body)
     .write();
 
