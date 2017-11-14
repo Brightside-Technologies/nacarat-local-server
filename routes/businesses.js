@@ -24,6 +24,21 @@ router.get("/businesses/:businessId.json", (req, res) => {
 });
 
 // PUT - Update About by :businessId
+router.put("/businesses/:businessId/profile/name.json", (req, res) => {
+  db
+    .get("businesses")
+    .get(req.params.businessId)
+    .get("profile")
+    .get("name")
+    .assign(req.body)
+    .write();
+
+  res.send({
+    status: 200
+  });
+});
+
+// PUT - Update About by :businessId
 router.put("/businesses/:businessId/profile/about.json", (req, res) => {
   db
     .get("businesses")
