@@ -1,4 +1,24 @@
 {
+  "enums": {
+    "socialMediaTypes": [
+      {
+        "id": "KysdxSnejiLZgCA11Sg",
+        "name": "Facebook"
+      },
+      {
+        "id": "Kyse0YkN_mg5jLwOpEQ",
+        "name": "Twitter"
+      },
+      {
+        "id": "Kyse3x0ZozzvUK0Y5nW",
+        "name": "Snapchat"
+      },
+      {
+        "id": "Kyse7EIfpWMOh66mkDQ",
+        "name": "Instagram"
+      }
+    ]
+  },
   "products": {
     "8b9846d7-9df4-440c-8bbc-88b8a9fc7217": {
       "productName": "culpa nostrud ullamco ex",
@@ -197,16 +217,20 @@
         "name": "Yellow Mart",
         "socialMedias": {
           "facebook": {
-            "display": "facebook",
-            "url": "#"
+            "url": "",
+            "display": "myFacebookUrl"
           },
           "twitter": {
-            "display": "twitter",
-            "url": "#"
+            "url": "https://twitter.com",
+            "display": "yellowmart_tweets"
+          },
+          "snapchat": {
+            "url": "https://snapchat.com/add/yellowmartsnap",
+            "display": "yellowmartsnap"
           },
           "instagram": {
-            "display": "instagram",
-            "url": "#"
+            "url": "https://instagram.com",
+            "display": "yellowmart_insta"
           }
         },
         "phone": {
