@@ -15,5 +15,13 @@ router.get("/enums/socialMediaTypes.json", (req, res) => {
     res.send(socialMediaTypes);
 });
 
+router.get("/enums/businessTypes.json", (req, res) => {
+    const businessTypes = db
+        .get("enums")
+        .get("businessTypes")
+        .value();
+
+    res.send(businessTypes);
+});
 
 module.exports = router;

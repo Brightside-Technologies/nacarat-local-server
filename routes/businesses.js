@@ -54,6 +54,21 @@ router.put("/businesses/:businessId/profile/about.json", (req, res) => {
   });
 });
 
+// Update About by :businessId
+router.put("/businesses/:businessId/profile/type.json", (req, res) => {
+  db
+    .get("businesses")
+    .get(req.params.businessId)
+    .get("profile")
+    .get("type")
+    .assign(req.body)
+    .write();
+
+  res.send({
+    status: 200
+  });
+});
+
 // Update email by :businessId
 router.put("/businesses/:businessId/profile/email.json", (req, res) => {
   db
