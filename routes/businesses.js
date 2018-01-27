@@ -160,4 +160,19 @@ router.delete("/businesses/:businessId/profile/socialMedias/:type.json", (req, r
   });
 });
 
+// Update address by :businessId
+router.put("/businesses/:businessId/profile/address.json", (req, res) => {
+  db
+    .get("businesses")
+    .get(req.params.businessId)
+    .get("profile")
+    .get("address")
+    .assign(req.body)
+    .write();
+
+  res.send({
+    status: 200
+  });
+});
+
 module.exports = router;
