@@ -1,22 +1,22 @@
-const express = require('express');
+const express = require("express");
 const router = express.Router();
-const bodyParser = require('body-parser');
-const low = require('lowdb');
-const FileSync = require('lowdb/adapters/FileSync')
-const adapter = new FileSync('db.json');
+const bodyParser = require("body-parser");
+const low = require("lowdb");
+const FileSync = require("lowdb/adapters/FileSync");
+const adapter = new FileSync("db.json");
 const db = low(adapter);
-var _ = require('lodash');
+var _ = require("lodash");
 
 // GET /merchants
-router.get('/merchants.json', (req, res) => {
-
+router.get("/nacarat/merchants.json", (req, res) => {
     var merchants = db
-        .get('merchants')
+        .get("nacarat")
+        .get("merchants")
         .value();
 
     if (req.query) {
         var merchantId = _.findKey(merchants, {
-            'userId': req.query.equalTo.replace(/"/g, "")
+            userId: req.query.equalTo.replace(/"/g, "")
         });
         var merchantObj = {};
         merchantObj[merchantId] = merchants[merchantId];
@@ -27,9 +27,10 @@ router.get('/merchants.json', (req, res) => {
 });
 
 // GET /merchants/:id
-router.get('/merchants/:merchantId.json', (req, res) => {
+router.get("/nacarat/merchants/:merchantId.json", (req, res) => {
     const merchant = db
-        .get('merchants')
+        .get("nacarat")
+        .get("merchants")
         .get(req.params.merchantId)
         .value();
 

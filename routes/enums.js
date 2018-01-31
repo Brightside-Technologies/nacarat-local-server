@@ -6,8 +6,9 @@ const FileSync = require("lowdb/adapters/FileSync");
 const adapter = new FileSync("db.json");
 const db = low(adapter);
 
-router.get("/enums/socialMediaTypes.json", (req, res) => {
+router.get("/nacarat/enums/socialMediaTypes.json", (req, res) => {
     const socialMediaTypes = db
+        .get("nacarat")
         .get("enums")
         .get("socialMediaTypes")
         .value();
@@ -15,8 +16,9 @@ router.get("/enums/socialMediaTypes.json", (req, res) => {
     res.send(socialMediaTypes);
 });
 
-router.get("/enums/businessTypes.json", (req, res) => {
+router.get("/nacarat/enums/businessTypes.json", (req, res) => {
     const businessTypes = db
+        .get("nacarat")
         .get("enums")
         .get("businessTypes")
         .value();
